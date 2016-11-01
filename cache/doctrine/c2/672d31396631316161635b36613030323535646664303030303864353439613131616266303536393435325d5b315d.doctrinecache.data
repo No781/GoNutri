@@ -1,0 +1,100 @@
+1478633272
+a:2:{s:7:"content";s:3668:"<section class="team ptb-100">
+    <section class="section-title">
+        <div class="container text-center">
+            <h2>Unser Team</h2>
+            <span class="bordered-icon"><i class="fa fa-circle-thin"></i></span>
+        </div>
+    </section>
+    <div class="container">
+        
+                            <div class="row">
+                        <div class="col-md-4">
+                <figure class="thumbnail">
+                    <a href="#">
+                        <img alt="Reena Scot" src="/user/pages/01.home/_team/img-team-1.jpg" />
+                    </a>
+                    <figcaption class="caption text-center">
+                        <h3>Reena Scot -
+                            <small>Director</small>
+                        </h3>
+                    </figcaption>
+                </figure>
+            </div>
+            
+        
+                        <div class="col-md-4">
+                <figure class="thumbnail">
+                    <a href="#">
+                        <img alt="David Martin" src="/user/pages/01.home/_team/img-team-2.jpg" />
+                    </a>
+                    <figcaption class="caption text-center">
+                        <h3>David Martin -
+                            <small>Founder</small>
+                        </h3>
+                    </figcaption>
+                </figure>
+            </div>
+            
+        
+                        <div class="col-md-4">
+                <figure class="thumbnail">
+                    <a href="#">
+                        <img alt="Jenefir White" src="/user/pages/01.home/_team/img-team-3.jpg" />
+                    </a>
+                    <figcaption class="caption text-center">
+                        <h3>Jenefir White -
+                            <small>Marketing</small>
+                        </h3>
+                    </figcaption>
+                </figure>
+            </div>
+                            </div>
+            
+        
+                            <div class="row">
+                        <div class="col-md-4">
+                <figure class="thumbnail">
+                    <a href="#">
+                        <img alt="Reena Scot" src="/user/pages/01.home/_team/img-team-4.jpg" />
+                    </a>
+                    <figcaption class="caption text-center">
+                        <h3>Reena Scot -
+                            <small>Director</small>
+                        </h3>
+                    </figcaption>
+                </figure>
+            </div>
+            
+        
+                        <div class="col-md-4">
+                <figure class="thumbnail">
+                    <a href="#">
+                        <img alt="David Martin" src="/user/pages/01.home/_team/img-team-5.jpg" />
+                    </a>
+                    <figcaption class="caption text-center">
+                        <h3>David Martin -
+                            <small>Founder</small>
+                        </h3>
+                    </figcaption>
+                </figure>
+            </div>
+            
+        
+                        <div class="col-md-4">
+                <figure class="thumbnail">
+                    <a href="#">
+                        <img alt="Jenefir White" src="/user/pages/01.home/_team/img-team-6.jpg" />
+                    </a>
+                    <figcaption class="caption text-center">
+                        <h3>Jenefir White -
+                            <small>Marketing</small>
+                        </h3>
+                    </figcaption>
+                </figure>
+            </div>
+                            </div>
+            
+            </div>
+</section>
+";s:12:"content_meta";N;}

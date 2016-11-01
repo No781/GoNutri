@@ -1,0 +1,59 @@
+1478632037
+a:2:{s:7:"content";s:2139:"
+    
+    
+
+<script type="text/javascript">
+  $(document).ready(function() {
+    $("#ls-xC7Tp1cIoE").lightSlider({
+        item: 1,
+        slideMove: 1,
+        slideMargin: 0,
+        mode: 'slide',
+        cssEasing: 'ease',
+        easing: '',
+        speed: 1000,
+        auto: true,
+        loop: true,
+        pause: 2000,
+        pauseOnHover: false,
+        controls: true,
+        keyPress: true,
+        adaptiveHeight: true,
+        vertical: false,
+        verticalHeight: 500,
+        pager: true,
+        gallery: false,
+        galleryMargin: 15,
+        thumbMargin: 5,
+        enableTouch: true,
+        enableDrag: true,
+
+    });
+  });
+</script>
+
+
+<div id="ls-xC7Tp1cIoE-wrapper" class="grav-lightslider">
+        <ul id="ls-xC7Tp1cIoE">
+                                                            <li data-thumb="/images/d/1/9/2/c/d192cbd2744da1c7518feefa2ab4beb0099142e9-image-1.jpeg">
+                <img src="/images/2/5/9/f/1/259f108df52c6079f15a65126394cd7771cb61a1-image-1.jpeg" />
+            </li>
+                                                            <li data-thumb="/images/4/5/1/9/e/4519ebd3ab2adf9a86b6d8c24e9344e58e5cb7f6-image-2.jpeg">
+                <img src="/images/8/a/0/5/8/8a05856478d7f26290764f6666d9fde814f65c6f-image-2.jpeg" />
+            </li>
+                                                            <li data-thumb="/images/0/3/d/8/7/03d87fa3f2e96f978206f85a6743508b86280eee-image-3.jpeg">
+                <img src="/images/d/a/a/2/5/daa25fbaeccecc257e0de9993d2cc9a173d16381-image-3.jpeg" />
+            </li>
+                                                            <li data-thumb="/images/2/9/0/6/e/2906ed79ea60d9f93c1937eada596dc8dc96d124-image-4.jpeg">
+                <img src="/images/c/5/b/9/5/c5b95561ee6ed67c5dc17354914b38bf31809e2a-image-4.jpeg" />
+            </li>
+                                                            <li data-thumb="/images/c/d/7/2/d/cd72df9fed439623b2e89d92e6f1c2fe3fed66de-image-5.jpeg">
+                <img src="/images/b/2/e/d/2/b2ed2a685cff1968d66af39167b3d7b78e278b26-image-5.jpeg" />
+            </li>
+            </ul>
+    </div>
+
+
+
+";s:12:"content_meta";N;}

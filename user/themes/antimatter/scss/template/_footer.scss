@@ -1,0 +1,70 @@
+// Footer styling
+#footer {
+	position: absolute;
+	background: $footer-bg;
+	background-image: url("../images/footer-stripe.png");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	height: auto;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	@extend .padding-horiz;
+	color: $footer-text;
+	text-align: center;
+
+	.container {
+		display: flex;
+		align-items: flex-end;
+		align-content: flex-end;
+		color: white;
+		p {
+			margin: 0;
+		}
+		.footer-text {
+			flex-grow: 2;
+			padding: 20px;
+			&.legal {
+				text-align: left;
+				padding-left: 0;
+			}
+			&.address {
+				text-align: right;
+				padding-right: 0;
+			}
+		}
+		.logo {
+			width: 15%;
+			height: 200px;
+			background-image: url("../images/Logo-for-footer.png");
+			background-size: contain;
+			background-repeat: no-repeat;
+			background-position: center;
+		}
+
+	}
+
+	a:hover {
+		color: #fff;
+	}
+
+	.totop {
+		position: absolute;
+		top: -1rem;
+		text-align: center;
+		left: 0;
+		right: 0;
+		span {
+			font-size: 1.7rem;
+			line-height: 2.5rem;
+			background: white;
+			width: 3rem;
+			height: 2rem;
+			border-radius: $border-radius;
+			display: inline-block;
+			text-align: top;
+		}
+	}
+
+}

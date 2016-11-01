@@ -1,0 +1,27 @@
+.triples {
+  display: flex;
+  align-content:center;
+  align-items: center;
+
+  .container {
+    width: 33.333%;
+    padding: 10px 5px;
+
+    .triple {
+      position: relative;
+      display: inline-block;
+      overflow: hidden;
+      a {
+        img {
+          transform: scale(1);
+          width: 100%;
+          transition: .3s ease-in-out;
+        }
+        &:hover img {
+          transform: scale(1.2);
+        }
+      }
+    }
+  }
+}
+

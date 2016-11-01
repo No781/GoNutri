@@ -1,0 +1,79 @@
+1478630336
+a:2:{s:7:"content";s:2292:"
+    
+    
+
+<script type="text/javascript">
+  $(document).ready(function() {
+    $("#ls-U9m7qaYvTe").lightSlider({
+        item: 1,
+        slideMove: 1,
+        slideMargin: 0,
+        mode: 'slide',
+        cssEasing: 'ease',
+        easing: '',
+        speed: 1000,
+        auto: true,
+        loop: true,
+        pause: 2000,
+        pauseOnHover: false,
+        controls: true,
+        keyPress: true,
+        adaptiveHeight: true,
+        vertical: false,
+        verticalHeight: 500,
+        pager: true,
+        gallery: false,
+        galleryMargin: 15,
+        thumbMargin: 5,
+        enableTouch: true,
+        enableDrag: true,
+
+    });
+  });
+</script>
+
+
+<div id="ls-U9m7qaYvTe-wrapper" class="grav-lightslider">
+        <ul id="ls-U9m7qaYvTe" style="height: auto;">
+                                                                                    <li data-thumb="/images/6/e/7/f/5/6e7f5f9017a0419441d39593ec96842cbc3cfa54-image-1.jpeg">
+                <div class="panel-bg" style="
+                    background-image: url(/images/5/b/2/1/7/5b21745e19a41218b093562042eb92c5d4cd6ee1-image-1.jpeg);                    min-height: auto;
+                    height: auto;
+                    ">
+                    <div class="panel-padding " style="
+                        padding: 70px; 50px;
+                        ">
+                        
+                    </div>
+                </div>
+            </li>
+                                                                                    <li data-thumb="/images/9/6/a/6/9/96a691f42e0f78521c5d2ffac72a09256372f468-image-2.jpeg">
+                <div class="panel-bg" style="
+                    background-image: url(/images/1/0/7/2/0/107203b2a6de578e564ae399c03c212a16f4b7f9-image-2.jpeg);                    min-height: auto;
+                    height: auto;
+                    ">
+                    <div class="panel-padding " style="
+                        padding: 70px; 50px;
+                        ">
+                        
+<h2>title: Slider Content
+routable: false
+visible: false
+lightslider:
+slider_type: images
+mode: slide
+pager: 'true'
+controls: 'true'
+keyPress: 'true'
+pause: 2000
+speed: 1000</h2>
+                    </div>
+                </div>
+            </li>
+            </ul>
+    </div>
+
+
+
+";s:12:"content_meta";N;}

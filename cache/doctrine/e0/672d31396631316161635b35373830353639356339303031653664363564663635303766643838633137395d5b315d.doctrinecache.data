@@ -1,0 +1,56 @@
+1478630292
+a:2:{s:7:"content";s:1462:"
+    
+    
+
+<script type="text/javascript">
+  $(document).ready(function() {
+    $("#ls-penHywr8U2").lightSlider({
+        item: 1,
+        slideMove: 1,
+        slideMargin: 0,
+        mode: 'slide',
+        cssEasing: 'ease',
+        easing: '',
+        speed: 1000,
+        auto: true,
+        loop: true,
+        pause: 2000,
+        pauseOnHover: false,
+        controls: true,
+        keyPress: true,
+        adaptiveHeight: true,
+        vertical: false,
+        verticalHeight: 500,
+        pager: true,
+        gallery: false,
+        galleryMargin: 15,
+        thumbMargin: 5,
+        enableTouch: true,
+        enableDrag: true,
+
+    });
+  });
+</script>
+
+
+<div id="ls-penHywr8U2-wrapper" class="grav-lightslider">
+        <ul id="ls-penHywr8U2" style="height: auto;">
+                                                                                    <li data-thumb="/images/6/e/7/f/5/6e7f5f9017a0419441d39593ec96842cbc3cfa54-image-1.jpeg">
+                <div class="panel-bg" style="
+                    background-image: url(/images/5/b/2/1/7/5b21745e19a41218b093562042eb92c5d4cd6ee1-image-1.jpeg);                    min-height: auto;
+                    height: auto;
+                    ">
+                    <div class="panel-padding " style="
+                        padding: 70px; 50px;
+                        ">
+                        
+                    </div>
+                </div>
+            </li>
+            </ul>
+    </div>
+
+
+
+";s:12:"content_meta";N;}

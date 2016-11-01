@@ -1,0 +1,11 @@
+email: areggeradrian@gmail.com
+fullname: No781
+title: Administrator
+state: enabled
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$BYB/19Hcc8VC0dbBlaN1Wusl6ZpOOpzlrFK.TFMYzzMkNO.8igcGi

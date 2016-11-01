@@ -1,0 +1,21 @@
+
+<div class="triples">
+    {% for part in page.header.triples %}
+
+        {#{% if loop.index % 3 == 1 %}#}
+            {#<div class="row">#}
+        {#{% endif %}#}
+        <div class="container">
+            <div class="triple">
+                <a href="{{ part.url }}">
+                    {{ page.media.images[part.image].html('', part.name) }}
+                </a>
+            </div>
+        </div>
+        {#{% if loop.index == page.header.members.count or loop.index % 3 == 0 %}#}
+            {#</div>#}
+        {#{% endif %}#}
+
+    {% endfor %}
+    {#{{ content }}#}
+</div>

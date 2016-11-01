@@ -1,0 +1,102 @@
+1478629943
+a:2:{s:7:"content";s:2994:"
+    
+    
+
+<script type="text/javascript">
+  $(document).ready(function() {
+    $("#ls-g1P5EtKDmd").lightSlider({
+        item: 1,
+        slideMove: 1,
+        slideMargin: 0,
+        mode: 'slide',
+        cssEasing: 'ease',
+        easing: '',
+        speed: 1000,
+        auto: true,
+        loop: true,
+        pause: 2000,
+        pauseOnHover: false,
+        controls: true,
+        keyPress: true,
+        adaptiveHeight: true,
+        vertical: false,
+        verticalHeight: 500,
+        pager: true,
+        gallery: false,
+        galleryMargin: 15,
+        thumbMargin: 5,
+        enableTouch: true,
+        enableDrag: true,
+
+    });
+  });
+</script>
+
+
+<div id="ls-g1P5EtKDmd-wrapper" class="grav-lightslider">
+        <ul id="ls-g1P5EtKDmd" style="height: auto;">
+                                                        <li >
+                <div class="panel-bg" style="
+                                        min-height: auto;
+                    height: auto;
+                    ">
+                    <div class="panel-padding " style="
+                        padding: 70px; 50px;
+                        ">
+                        <h1>Shop asfasfs Stuff</h1>
+<h2>We have all your <strong>geek</strong> needs covered..</h2>
+
+                    </div>
+                </div>
+            </li>
+                                                        <li >
+                <div class="panel-bg" style="
+                                        min-height: auto;
+                    height: auto;
+                    ">
+                    <div class="panel-padding " style="
+                        padding: 70px; 50px;
+                        ">
+                        
+<h1>SnipCart Powered</h1>
+<h2><strong>Grav</strong> plus <strong>SnipCart</strong> equals easy shopping</h2>
+
+                    </div>
+                </div>
+            </li>
+                                                        <li >
+                <div class="panel-bg" style="
+                                        min-height: auto;
+                    height: auto;
+                    ">
+                    <div class="panel-padding " style="
+                        padding: 70px; 50px;
+                        ">
+                        
+<h1>A Huge Variety</h1>
+<h2>A great selection of <strong>bits</strong> and <strong>bobs</strong></h2>
+
+                    </div>
+                </div>
+            </li>
+                                                        <li >
+                <div class="panel-bg" style="
+                                        min-height: auto;
+                    height: auto;
+                    ">
+                    <div class="panel-padding " style="
+                        padding: 70px; 50px;
+                        ">
+                        
+<h1>A Huge Variety</h1>
+<h2>A great selection of <strong>bits</strong> and <strong>bobs</strong></h2>
+                    </div>
+                </div>
+            </li>
+            </ul>
+    </div>
+
+
+
+";s:12:"content_meta";N;}
